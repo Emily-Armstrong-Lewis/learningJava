@@ -1,3 +1,5 @@
+//this practices looping through a string of user input, grabbing each word and appending it to the end of a string to construct the user input into a complete string.
+
 package examples;
 
 import java.util.Scanner;
